@@ -2,7 +2,7 @@ name: peque
 version: 0.1.0
 
 authors:
-  - your-name-here <your-email-here>
+  - peque <iagodp08@gmail.com>
 
 crystal: '>= 1.15.1'
 

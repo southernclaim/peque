@@ -1,6 +1,6 @@
-# peque
+# Peque Lang
 
-TODO: Write a description here
+Peque is a tiny programming language created in Brazil by Iago Dórea.
 
 ## Installation
 
@@ -9,7 +9,7 @@ TODO: Write a description here
    ```yaml
    dependencies:
      peque:
-       github: your-github-user/peque
+       github: southernclaim/peque
    ```
 
 2. Run `shards install`
@@ -20,15 +20,10 @@ TODO: Write a description here
 require "peque"
 ```
 
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
 
 ## Contributing
 
-1. Fork it (<https://github.com/your-github-user/peque/fork>)
+1. Fork it (<https://github.com/southernclaim/peque/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -36,4 +31,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [your-name-here](https://github.com/your-github-user) - creator and maintainer
+- [Iago Dórea](https://github.com/southernclaim) - creator and maintainer

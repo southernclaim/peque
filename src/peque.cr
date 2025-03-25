@@ -2,7 +2,7 @@ def output(oput);
 	  puts oput
   end
   def listen;
-	gets.chomp
+	gets
 end
 def iseql(um,dozz,codigo);
 	if um == dozz
